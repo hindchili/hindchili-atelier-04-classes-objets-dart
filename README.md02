@@ -1,41 +1,60 @@
-Atelier 04 – Classes et objets en Dart
+Atelier 4 – Classes et objets en Dart
 
-Description
+Cours : Programmation en Dart
+Outil utilisé : Visual Studio Code
 
-Ce projet contient les exercices de l’atelier 04 réalisés dans le cadre du cours de développement d’applications.
+1. Présentation du travail
 
-Le travail porte sur les classes et les objets en Dart.
+Dans cet atelier, je travaille avec le langage Dart pour mettre en pratique les notions de classes et d'objets. Les exercices me permettent de comprendre comment organiser un programme et comment utiliser une classe pour créer des objets.
 
-Exercices
+2. Objectifs de l'atelier
 
-Exercice 1 : L'usine de couleurs
+Les objectifs de ce travail sont les suivants :
 
-Exercice 2 : Point dans le plan
+Comprendre le rôle d'une classe dans un programme.
 
-Exercice 3 : Compte bancaire
+Déclarer des attributs et des méthodes.
 
-Exercice 4 : Types de média
+Créer des objets à partir d'une classe.
 
-Exercice 5 : Gestion des formes
+Utiliser les méthodes pour effectuer différentes opérations.
 
-Exercice 6 : Le contrat de service
+Pratiquer les notions de programmation orientée objet vues en cours.
 
-Exercice 7 : Le compteur de tâches
+3. Environnement de travail
 
-Exercice 8 : Livre et Roman
+Pour réaliser cet atelier, j'utilise les outils suivants :
 
-Exécution
+Dart : langage de programmation utilisé pour les exercices.
 
-Pour exécuter un exercice, ouvrez le terminal dans le dossier du projet et utilisez la commande suivante :
+Visual Studio Code : éditeur utilisé pour écrire et exécuter le code.
 
-dart exercice1.dart
+Git : outil utilisé pour enregistrer les modifications du projet.
 
-Remplacez exercice1.dart par le nom du fichier que vous voulez exécuter.
+GitHub : plateforme utilisée pour conserver et partager le travail.
 
-Outils utilisés
+4. Organisation du projet
 
-Dart
+Le projet contient les fichiers Dart réalisés pendant l'atelier ainsi que ce fichier README qui présente le travail.
 
-Visual Studio Code
+Chaque fichier sert à réaliser les exercices demandés dans le cadre du TP.
 
-Git et GitHub
+5. Exécution du programme
+
+Pour exécuter un fichier Dart, il faut ouvrir le terminal dans le dossier du projet et utiliser la commande suivante :
+
+dart run act1.dart
+
+Cette commande permet de lancer le programme contenu dans le fichier act1.dart.
+
+6. Gestion du projet avec Git
+
+Pendant la réalisation du travail, j'utilise Git pour enregistrer les modifications apportées aux fichiers.
+
+Les commandes principales utilisées sont :
+
+git add .
+git commit -m "Ajout des fichiers de l'atelier 4"
+git push
+
+Cet atelier me permet de pratiquer Dart et de mieux comprendre le fonctionnement des classes et des objets. Les exercices réalisés m'aident à appliquer les notions vues en cours et à améliorer ma façon d'organiser mon code.

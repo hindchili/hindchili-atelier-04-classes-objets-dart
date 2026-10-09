@@ -5,3 +5,11 @@ class Couleur {
 
   Couleur(this.r, this.g, this.b);
 }
+
+void main() {
+  Couleur couleur = Couleur(255, 0, 0);
+
+  print(couleur.r);
+  print(couleur.g);
+  print(couleur.b);
+}

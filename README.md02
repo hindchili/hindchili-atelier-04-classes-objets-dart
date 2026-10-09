@@ -1,0 +1,41 @@
+Atelier 04 – Classes et objets en Dart
+
+Description
+
+Ce projet contient les exercices de l’atelier 04 réalisés dans le cadre du cours de développement d’applications.
+
+Le travail porte sur les classes et les objets en Dart.
+
+Exercices
+
+Exercice 1 : L'usine de couleurs
+
+Exercice 2 : Point dans le plan
+
+Exercice 3 : Compte bancaire
+
+Exercice 4 : Types de média
+
+Exercice 5 : Gestion des formes
+
+Exercice 6 : Le contrat de service
+
+Exercice 7 : Le compteur de tâches
+
+Exercice 8 : Livre et Roman
+
+Exécution
+
+Pour exécuter un exercice, ouvrez le terminal dans le dossier du projet et utilisez la commande suivante :
+
+dart exercice1.dart
+
+Remplacez exercice1.dart par le nom du fichier que vous voulez exécuter.
+
+Outils utilisés
+
+Dart
+
+Visual Studio Code
+
+Git et GitHub
